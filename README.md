@@ -4,7 +4,7 @@ Aplicação desenvolvida em Python para otimização de rotas logísticas. O sis
 
 ## Algoritmos Implementados
 
-1.  **Floyd-Warshall ($O(V^3)$):**
+1.  **Floyd-Warshall:**
     * Calcula a matriz de caminhos mínimos entre todos os pontos do mapa.
     * Garante que os veículos sempre utilizem o menor trajeto possível entre dois nós.
 
@@ -26,8 +26,8 @@ sistema_de_roteamento/
 │   ├── interface.py  # Interface Tkinter Interativa  
 ├── main.py           # Executável  
 ├── README.md  
-
   
+    
 Guilherme Morais Araujo         RA: 251023826  
 Lorenzo Camillo de Avila        RA: 241024323  
 Viviane Mei Takuno Nakasato     RA: 241020832  
