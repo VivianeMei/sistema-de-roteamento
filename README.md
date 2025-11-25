@@ -27,7 +27,7 @@ sistema_de_roteamento/
 ├── main.py           # Executável  
 ├── README.md  
 
-
-Guilherme Morais Araujo         RA: 251023826
-Lorenzo Camillo de Avila        RA: 241024323
-Viviane Mei Takuno Nakasato     RA: 241020832
+  
+Guilherme Morais Araujo         RA: 251023826  
+Lorenzo Camillo de Avila        RA: 241024323  
+Viviane Mei Takuno Nakasato     RA: 241020832  
