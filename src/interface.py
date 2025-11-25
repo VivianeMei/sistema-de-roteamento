@@ -15,7 +15,7 @@ class MainWindow:
     # --------------------------------------------------------------------------
     def setup_ui(self):
         # --- PAINEL ESQUERDO (CONTROLES) ---
-        left_frame = tk.Frame(self.root, width=320, bg="#f0f0f0", padx=10, pady=10)
+        left_frame = tk.Frame(self.root, width=400, bg="#f0f0f0", padx=10, pady=10)
         left_frame.pack(side=tk.LEFT, fill=tk.Y)
         left_frame.pack_propagate(False)
 

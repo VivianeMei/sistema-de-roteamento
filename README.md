@@ -19,13 +19,13 @@ Aplicação desenvolvida em Python para otimização de rotas logísticas. O sis
 
 ## Estrutura
 
-sistema_de_roteamento/
-├── src/
-│   ├── logic.py      # Lógica Paralela e Floyd-Warshall
-│   ├── models.py     # Classes Location e Vehicle
-│   ├── interface.py  # Interface Tkinter Interativa
-├── main.py           # Executável
-├── README.md
+sistema_de_roteamento/  
+├── src/  
+│   ├── logic.py      # Lógica Paralela e Floyd-Warshall  
+│   ├── models.py     # Classes Location e Vehicle  
+│   ├── interface.py  # Interface Tkinter Interativa  
+├── main.py           # Executável  
+├── README.md  
 
 
 Guilherme Morais Araujo         RA: 251023826
